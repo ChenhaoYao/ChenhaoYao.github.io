@@ -1,7 +1,7 @@
 ---
 title: "Application of LLM Guided Reinforcement Learning in Formation Control with Collision Avoidance"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/IROS
 excerpt: 'Multi-Agent Systems (MAS) excel at accomplish-
 ing complex objectives through the collaborative efforts of
@@ -26,7 +26,7 @@ studies, conducted in both simulation and real-world settings,
 validate the practicality and effectiveness of our proposed
 approach.'
 date: 2025-10-19
-venue: 'Journal 1'
+venue: 'IROS'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://github.com/ChenhaoYao/ChenhaoYao.github.io/blob/master/files/Application_of_LLM_Guided_Reinforcement_Learning_in_Formation.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
